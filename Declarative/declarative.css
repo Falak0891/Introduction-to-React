@@ -1,0 +1,12 @@
+.container{
+    width: fit-content;
+    height: 80px;
+    border-radius: 10px;
+    border: 2px black;
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    
+    
+}
